@@ -14,7 +14,7 @@ public class Trace {
         System.out.println("a == c: " + (a == c));
 
         b = new Student();
-        b.name = "Hira";
+        b.name = "Hamna";
         System.out.println("After reassigning b:");
         System.out.println("a.name = " + a.name);
         System.out.println("b.name = " + b.name);
